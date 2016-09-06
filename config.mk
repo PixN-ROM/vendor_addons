@@ -8,4 +8,5 @@ PRODUCT_PROPERTY_OVERRIDES += \
 # Prebuilts
 PRODUCT_PACKAGES += \
     KernelAdiutor \
-    Substratum
+    Substratum \
+    Superuser
